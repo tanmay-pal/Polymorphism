@@ -1,4 +1,4 @@
-public class InheritanceExample {
+public class RunTimePolymorphismExample {
     public static void main(String[] args) {
         Employee prog = new Programmer(1, "Rohit", "Programmer - Coding", 1);
         System.out.println(prog.toString());
